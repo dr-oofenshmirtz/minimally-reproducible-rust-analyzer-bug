@@ -1,0 +1,13 @@
+{
+  "name": "solgar.io",
+  "packageManager": "yarn@3.2.3",
+  "private": true,
+  "scripts": {
+    "start": "yarn workspace unrelated-js-project start",
+    "test": "echo 'yolo'"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

@@ -1,0 +1,1 @@
+/home/guest/code/minimally-reproducable/rust-analyzer-workspace-issues/apps/rust-project-for-minimal-reproducible-issue/target/debug/rust-project-for-minimal-reproducible-issue: /home/guest/code/minimally-reproducable/rust-analyzer-workspace-issues/apps/rust-project-for-minimal-reproducible-issue/src/main.rs

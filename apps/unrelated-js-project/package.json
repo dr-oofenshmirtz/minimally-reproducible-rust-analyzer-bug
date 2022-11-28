@@ -1,0 +1,10 @@
+{
+  "name": "unrelated-js-project",
+  "packageManager": "yarn@3.2.3",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "unrelated-js-package": "workspace:^"
+  }
+}
